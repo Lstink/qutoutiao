@@ -1,10 +1,10 @@
-var fx_gurl = 'http://test.52jscn.com/';
+var fx_gurl = 'http://www.qutoutiao.test/';
 var fx_cdn = 'http://qiniu.123444.cn/';
 //var fx_gurl = 'http://192.168.1.105:8002/';
 //var fx_cdn = 'http://192.168.1.105:8002/';
 var fx_url = fx_gurl + 'index.php/';
 
-var img_url = 'http://qiniu.123.cn/';
+var img_url = 'http://www.qutoutiao.test/';
 
 var html_win = 'widget://html/';
 var _token = $api.getStorage('token');
@@ -50,7 +50,7 @@ var config_json = {
 		"shouxufei": "3%"
 	},
 	"config": {
-		"url": "http://test.52jscn.com",
+		"url": "http://www.qutoutiao.test",
 		"title": "【小赚头条】为你私人定制的资讯客户端",
 		"dtitle": "小赚头条",
 		"logo": "/public/uploads/20170127/49a890dd7936d393476883091014dbb4.png",

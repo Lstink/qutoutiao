@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><widget id="A6025460123456" security="false" version="0.0.1">
+<?xml version="1.0" encoding="UTF-8"?><widget id="A6155601669182" security="false" version="0.0.1">
   <name>新闻资讯</name>
   <description/>
   <author email="123456789@qq.com" href="http://test.52jscn.com">趣赚</author>
@@ -45,6 +45,6 @@
   </feature>
   <feature name="baiduLocation">
     <param name="apiKey" value="OhK2w6K552m4ZFNLUGl4B0cM5a4i4BpI"/>
-	
+
   </feature>
 </widget>
